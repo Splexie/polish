@@ -1,0 +1,22 @@
+if 1 == 1 then
+    local function Message(text, color)
+    game.StarterGui:SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = color,
+        })
+    end
+    rconsoleprint('@@RED@@')
+    rconsoleprint('FAGGOT DETECTION - ON \n')
+    rconsoleprint('OMG IS THAT A FAGGOT? \n')
+    wait(0.3)
+    rconsoleprint('FAGGOT FOUND. \n')
+    wait(0.5)
+    rconsoleprint('YOURE A FAGGOT.\n')
+    wait(0.5)
+    rconsoleprint('---------------------FAGGOT WHITELIST SUCCEEDED---------------------\n')
+    wait(5)
+    while true do wait(0) 
+local A_1 = "I AM POLISH AND WEAR SKIRTS"
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) end
+    end
